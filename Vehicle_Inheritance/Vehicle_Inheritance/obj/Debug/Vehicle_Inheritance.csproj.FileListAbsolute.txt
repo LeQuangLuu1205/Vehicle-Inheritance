@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\bin\Debug\Vehicle_Inheritance.exe.config
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\bin\Debug\Vehicle_Inheritance.exe
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\bin\Debug\Vehicle_Inheritance.pdb
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\obj\Debug\Vehicle_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\obj\Debug\Vehicle_Inheritance.exe
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\obj\Debug\Vehicle_Inheritance.pdb
+C:\Users\PC\source\repos\Vehicle_Inheritance\Vehicle_Inheritance\obj\Debug\Vehicle_Inheritance.csproj.AssemblyReference.cache
